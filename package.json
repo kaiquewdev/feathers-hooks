@@ -42,7 +42,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "feathers-commons": "^0.7.0",
+    "feathers-commons": "^0.7.4",
     "feathers-errors": "^2.0.1"
   },
   "devDependencies": {
