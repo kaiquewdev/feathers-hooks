@@ -1,6 +1,6 @@
 version: '2'
 services:
-  web:
+  hooks:
     build: .
     volumes:
       - ./ /hooks
