@@ -3,7 +3,7 @@ services:
   hooks:
     build: .
     volumes:
-      - ./ /hooks
+      - .:/hooks
     depends_on:
       - mongodb
   mongodb:
