@@ -1,3 +1,5 @@
+:)
+
 # Feathers Hooks
 
 [![Build Status](https://travis-ci.org/feathersjs/feathers-hooks.png?branch=master)](https://travis-ci.org/feathersjs/feathers-hooks)
